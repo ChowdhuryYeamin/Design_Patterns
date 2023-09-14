@@ -1,8 +1,4 @@
-# Design_Patterns: Strategy Pattern
-
-Certainly! Below is a detailed outline for the GitHub README file:
-
----
+# Design_Patterns: Strategy Pattern_HW1
 
 ## Shave Ice Point-of-Sale (POS) System
 
