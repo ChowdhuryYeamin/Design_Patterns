@@ -46,7 +46,3 @@ This design ensures that the system can easily be extended to accommodate more s
 1. For **Kiosks**: Employees manually input the order number from the ticket and process cash payments.
 2. For **Stores**: Order numbers are auto-generated. Employees can choose between cash and credit card payment methods.
 
----
-
-To set up the project on GitHub, ensure you've structured your repository with the above-described classes and interfaces. Copy and paste the above README content to your GitHub repository's README.md file. You can further enhance the documentation with installation instructions, screenshots, or any other project-specific details.
-
